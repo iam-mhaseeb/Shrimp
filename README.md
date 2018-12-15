@@ -13,7 +13,7 @@ Installation is simplest:
 
 Shrimp depends on:
  1. `NLTK`
- 2. `Numpy`
+ 2. `SKLearn`
 
 ## Usage
 
