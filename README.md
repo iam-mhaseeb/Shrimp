@@ -1,5 +1,5 @@
 # Shrimp
-A simple chatbot build with Python & NLTK.
+A simple chatbot build with Python, NLTK & SKLearn.
 
 ## Installation
 
